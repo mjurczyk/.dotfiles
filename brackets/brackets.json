@@ -1,0 +1,53 @@
+{
+    "fonts.fontSize": "15px",
+    "fonts.fontFamily": "'SourceCodePro-Medium', ＭＳ ゴシック, 'MS Gothic', monospace",
+    "themes.theme": "dark-theme",
+    "spaceUnits": 2,
+    "linting.collapsed": true,
+    "brackets-file-tree-exclude.excludeList": [
+        "/.git/",
+        "/dist/",
+        "/bower_components/",
+        "/node_modules/"
+    ],
+    "dnbard.documents-toolbar.icons": true,
+    "dnbard.documents-toolbar.smallIcons": true,
+    "dnbard.documents-toolbar.tooltip": false,
+    "dnbard.documents-toolbar.close_left": false,
+    "dnbard.documents-toolbar.workingFiles": true,
+    "dnbard.documents-toolbar.brackets_font": false,
+    "dnbard.documents-toolbar.grayscaleIcons": false,
+    "dnbard.documents-toolbar.showCloseButton": true,
+    "brackets-editorconfig.enabled": true,
+    "dnbard.projects.favorites": [],
+    "dnbard.projects.filter": [
+        "favorite",
+        "regular"
+    ],
+    "dnbard.projects.customs": [],
+    "denniskehrig.ShowWhitespace.checked": false,
+    "denniskehrig.ShowWhitespace.colors": {
+        "light": {
+            "empty": "#ccc",
+            "leading": "#ccc",
+            "trailing": "#ff0000",
+            "whitespace": "#ccc"
+        },
+        "dark": {
+            "empty": "#686963",
+            "leading": "#686963",
+            "trailing": "#ff0000",
+            "whitespace": "#686963"
+        }
+    },
+    "brackets-icons.iconset": "devicons",
+    "closeBrackets": true,
+    "mikaeljorhult.bracketsTodo.enabled": false,
+    "jwolfe.file-tree-exclude.list": [
+        "node_modules",
+        "bower_components",
+        ".git",
+        "dist",
+        "vendor"
+    ]
+}
